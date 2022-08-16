@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tic Tac Toe</title>
+    <link rel="stylesheet" href="./styles/style.css" />
+    <script defer src="./scripts/script.js"></script>
+  </head>
+  <body>
+    <div class="backdrop">
+      <div class="backdrop-box">
+        <span class="backdrop-box-winner"></span>
+        <span class="backdrop-box-text">Choose your enemy player</span>
+        <div class="backdrop-box-buttons">
+          <button class="button">AI</button>
+          <button class="button">Player</button>
+        </div>
+      </div>
+    </div>
+    <header class="header">
+      <h1 class="header-title">Tic Tac Toe</h1>
+    </header>
+    <main class="main">
+      <div class="main-game-controller-turn"></div>
+      <div class="main-game-board">
+        <div class="main-game-board-cell empty" id="00"></div>
+        <div class="main-game-board-cell empty" id="01"></div>
+        <div class="main-game-board-cell empty" id="02"></div>
+        <div class="main-game-board-cell empty" id="10"></div>
+        <div class="main-game-board-cell empty" id="11"></div>
+        <div class="main-game-board-cell empty" id="12"></div>
+        <div class="main-game-board-cell empty" id="20"></div>
+        <div class="main-game-board-cell empty" id="21"></div>
+        <div class="main-game-board-cell empty" id="22"></div>
+      </div>
+      <button class="main-game-controller-reset">Reset game</button>
+    </main>
+    <footer class="footer">
+      <a href="https://github.com/haberalan" target="_blank" class="footer-author">Created by Alan Haber</a>
+    </footer>
+  </body>
+</html>
