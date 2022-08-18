@@ -278,10 +278,12 @@ body {
 
 .backdrop-box-winner {
   font-size: 3.2rem;
+  text-align: center;
 }
 
 .backdrop-box-text {
   font-size: 2rem;
+  text-align: center;
 }
 
 .backdrop-box-buttons {
