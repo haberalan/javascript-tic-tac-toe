@@ -164,6 +164,7 @@ body {
 }
 
 .main-game-controller-turn {
+  text-align: center;
   height: 3.2rem;
   font-size: 3.2rem;
   color: #13242b;
@@ -311,4 +312,11 @@ body {
 .hidden {
   display: none;
   visibility: hidden;
+}
+
+@media (max-width: 500px) {
+  .main-game-board-cell {
+    width: 10rem;
+    height: 10rem;
+  }
 }
