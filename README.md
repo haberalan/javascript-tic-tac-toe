@@ -1,4 +1,5 @@
 # tic-tac-toe
+
 Simple tic tac toe game - you can try it [here](https://haberalan.github.io/tic-tac-toe/)
 
 ## Features
@@ -13,4 +14,5 @@ Simple tic tac toe game - you can try it [here](https://haberalan.github.io/tic-
 git clone git@github.com:haberalan/tic-tac-toe.git
 cd tic-tac-toe
 ```
+
 - after that just open the index.html

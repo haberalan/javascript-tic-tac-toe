@@ -299,10 +299,11 @@ body {
   color: #f0efeb;
   background-color: #264653;
   cursor: pointer;
-  transition: background-color 0.1s ease-in-out, box-shadow 0.1s ease-in-out;
+  transition: background-color 0.1s ease-in-out, box-shadow 0.1s ease-in-out, transform 0.1s ease-in-out;
 }
 
 .backdrop-box-buttons > button:hover {
+  transform: scale(1.05);
   box-shadow: 0px 6px 19px -7px rgba(57, 57, 57, 1);
   background-color: #1a313a;
 }
