@@ -124,19 +124,19 @@ const gameController = (() => {
       case 'tie': {
         document.querySelector('.backdrop').classList.remove('hidden');
         document.querySelector('.main-game-controller-turn').textContent = '';
-        document.querySelector('.backdrop-box-winner').textContent = 'Game ended as a tie!';
+        document.querySelector('.backdrop-box-winner').textContent = 'Tie!';
         break;
       }
       case 'X': {
         document.querySelector('.backdrop').classList.remove('hidden');
         document.querySelector('.main-game-controller-turn').textContent = '';
-        document.querySelector('.backdrop-box-winner').textContent = 'Player X won this game!';
+        document.querySelector('.backdrop-box-winner').textContent = 'Player X won!';
         break;
       }
       case 'O': {
         document.querySelector('.backdrop').classList.remove('hidden');
         document.querySelector('.main-game-controller-turn').textContent = '';
-        document.querySelector('.backdrop-box-winner').textContent = 'Player O won this game!';
+        document.querySelector('.backdrop-box-winner').textContent = 'Player O won!';
         break;
       }
     }
