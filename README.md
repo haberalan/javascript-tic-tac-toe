@@ -6,7 +6,7 @@ Simple tic tac toe game - you can try it [here](https://haberalan.github.io/tic-
 
 - Hotseat mode
 - Usage of minimax algorithm
-- You can try yourself against AI. (trust me you won't win)
+- You can try yourself against AI (trust me you won't win)
 
 ## Installation
 
