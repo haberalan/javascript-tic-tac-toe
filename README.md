@@ -1,4 +1,4 @@
-# tic-tac-toe
+# javacsript-tic-tac-toe
 
 Tic tac toe game - [demo](https://haberalan.github.io/tic-tac-toe/)
 
@@ -11,7 +11,7 @@ Tic tac toe game - [demo](https://haberalan.github.io/tic-tac-toe/)
 ## Installation
 
 ```
-git clone git@github.com:haberalan/tic-tac-toe.git
+git clone git@github.com:haberalan/javascript-tic-tac-toe.git
 ```
 ```
 cd tic-tac-toe
