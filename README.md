@@ -1,6 +1,6 @@
 # javacsript-tic-tac-toe
 
-Tic tac toe game - [demo](https://haberalan.github.io/tic-tac-toe/)
+Tic tac toe game - [demo](https://haberalan.github.io/javascript-tic-tac-toe/)
 
 ## Features
 
