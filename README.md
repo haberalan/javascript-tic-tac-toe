@@ -13,6 +13,7 @@ Tic tac toe game - [demo](https://haberalan.github.io/javascript-tic-tac-toe/)
 ```
 git clone git@github.com:haberalan/javascript-tic-tac-toe.git
 ```
+
 ```
 cd tic-tac-toe
 ```
